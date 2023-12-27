@@ -299,8 +299,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.111/portingAids/kdelibs4support-5.111.0.tar.xz",
-                    "sha256": "2ebab32f04ec69fd1e6098a32a2342ed15e7b64cbcb70114cca479d69f91d4f8",
+                    "url": "https://download.kde.org/stable/frameworks/5.113/portingAids/kdelibs4support-5.113.0.tar.xz",
+                    "sha256": "44d014666f0eefffd87ee7b0a7db5f7b460f8d11c803b11e5ac39617f01f04fd",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
@@ -316,8 +316,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/frameworks/5.111/portingAids/kmediaplayer-5.111.0.tar.xz",
-                    "sha256": "ea47adfa69694a9853c60e03537dde15440d18a22ca0615555822951242a196a",
+                    "url": "https://download.kde.org/stable/frameworks/5.113/portingAids/kmediaplayer-5.113.0.tar.xz",
+                    "sha256": "5e39ff55da3560a0a3ea6a99c9ef80e5c227600a258cfecfcafe0489443fd6db",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8762,
